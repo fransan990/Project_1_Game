@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zombie Game</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Rubik+Wet+Paint&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="../styles/style.css">
+    <link rel="stylesheet" href="../music/musica1.mp3">
+
+</head>
+
+<body>
+
+    <div class="caja">
+        <h1>
+            <button id="start">Press Start</button>
+        </h1>
+        <div id="countdown"></div>
+        <div class="instructions">Use Space Bar to Jump</div>
+
+
+    </div>
+
+    <div class="counter">
+
+        <div class="contenedor">
+            <div><img src="../images/zombiff_name.png" alt="logo"></div>
+
+            <div class="contenedor1">
+                <img src="../images/brainCounter.png" alt="brain"><span>0</span>
+                <img src="../images/coinsImg.png" alt="coin"><span>0</span>
+            </div>
+        </div>
+        <button class="botonDeLosHuevos"> <a href="../index/index.html">Play Again??</a></button>
+
+    </div>
+
+    <canvas id="myCanvas"></canvas>
+    <script src="../script/obstacles.js"></script>
+    <script src="../script/people.js"></script>
+    <script src="../script/player.js"></script>
+    <script src="../script/background.js"></script>
+    <script src="../script/app.js"></script>
+    <script src="../script/script.js"></script>
+
+</body>
+
+
+</html>
