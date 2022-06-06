@@ -278,14 +278,14 @@ const ZombiesApp = {
             document.querySelector(".botonDeLosHuevos").classList.replace("botonDeLosHuevos", "backBoton")
 
             let mountain = document.querySelector(".mountain")
-            let beach = document.querySelector(".beach")
+            let beach = document.querySelector(".snow")
             let forest = document.querySelector(".forest")
 
             if (mountain) {
                 document.querySelector(".mountain").remove;
             }
             if (beach) {
-                document.querySelector(".beach").remove;
+                document.querySelector(".snow").remove;
             }
             if (forest) {
                 document.querySelector(".forest").remove;
