@@ -10,6 +10,8 @@ The aesthetics is a mixture of pixel art and 2D animations.
 
 If you want to try the game [Zombiff](https://fransan990.github.io/Project_1_Game/index/)
 
+## Languages and Tools:
+
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a
 
