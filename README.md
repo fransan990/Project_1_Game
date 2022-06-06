@@ -9,6 +9,7 @@ It is a very entertaining and addictive game where depending on the amount of br
 The aesthetics is a mixture of pixel art and 2D animations.
 
 If you want to try the game [Zombiff](https://fransan990.github.io/Project_1_Game/index/)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 
