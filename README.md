@@ -8,9 +8,9 @@ It is a very entertaining and addictive game where depending on the amount of br
 
 The aesthetics is a mixture of pixel art and 2D animations.
 
-If you want to try the game 
+If you want to try the game [Zombiff](https://fransan990.github.io/Project_1_Game/index/)
 
-[Zombiff](https://fransan990.github.io/Project_1_Game/index/)
+
 
 
 
